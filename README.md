@@ -1,3 +1,3 @@
 # git-github
 This is trial project
-this is fortutorial
+this is for tutorial
